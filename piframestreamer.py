@@ -3,7 +3,7 @@ from os import path
 from piUtils import *
 import sys, json, os, stat, base64
 import sys, random, time
-import MMA7455 as tilt
+#import MMA7455 as tilt
 from StringIO import StringIO
 from time import strftime, sleep
 from time import sleep
